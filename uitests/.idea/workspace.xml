@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb1e8d4d-750f-4f40-90f1-a0c9373533bf" name="Default Changelist" comment="" />
+    <list default="true" id="fb1e8d4d-750f-4f40-90f1-a0c9373533bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/UserInterfaceProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/LoginPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/LoginPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/LoginPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/LoginPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/SearchPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/SearchPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/ShopCartPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/ShopCartPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/UserRegistrationPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/UserRegistrationPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ProductChekoutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ProductChekoutTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SearchTests.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,25 +43,30 @@
     </option>
   </component>
   <component name="ProjectId" id="1Qunv6UBnOm1rJvKtkAadL4eMJN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\resources" />
-      <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\java\pageobjects" />
-      <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\resources" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\java\pageobjects" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\test\java" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\driverbase" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageobjects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\resources" />
+      <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\java\pageobjects" />
+      <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+  <component name="RunManager" selected="TestNG.&lt;default&gt; (1)">
     <configuration name="LoginTests.UserRegistration (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="uitests" />
       <option name="PACKAGE_NAME" value="" />
@@ -95,13 +120,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTests.SearchByAutocomplete" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="uitests" />
+    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui.tests" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchTests" />
-      <option name="METHOD_NAME" value="SearchByAutocomplete" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="0" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -120,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.LoginTests.UserRegistration (1)" />
         <item itemvalue="TestNG.LoginTests.UserRegistration" />
         <item itemvalue="TestNG.ProductChekoutTest.ProductCheckout" />
-        <item itemvalue="TestNG.SearchTests.SearchByAutocomplete" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +162,16 @@
       <updated>1568629575944</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

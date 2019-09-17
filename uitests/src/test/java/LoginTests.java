@@ -2,21 +2,26 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageobjects.HomePageObject;
 import pageobjects.LoginPageObject;
+import pageobjects.UserAccountPageObject;
 import pageobjects.UserRegistrationPageObject;
 
 public class LoginTests extends BaseTestClass {
     @Test
+    //Note that the validation assert is commented because cannot workaround the Captcha
     public void InvalidLogin() throws Exception {
         HomePageObject.loginButton().click();
         LoginPageObject.login("invalidUsername", "invalidPassword");
         LoginPageObject.loginSubmitButton().click();
+        //Assert.assertEquals(LoginPageObject.invalidLoginErrorMessage(), "Diese E-Mail-Passwort-Kombination ist uns nicht bekannt. Bitte korrigieren Sie Ihre Eingabe.");
     }
 
     @Test
+    //Note that the validation assert is commented because cannot workaround the Captcha
     public void ValidLogin() throws Exception {
         HomePageObject.loginButton().click();
         LoginPageObject.login("validUsername", "validPassword");
         LoginPageObject.loginSubmitButton().click();
+        //Assert.assertEquals(UserAccountPageObject.getAccountNameText(), "MEIN KONTOLuc Test");
     }
 
     @Test

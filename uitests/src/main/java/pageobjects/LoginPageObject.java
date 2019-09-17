@@ -81,6 +81,14 @@ public class LoginPageObject extends BasePageClass {
     }
 
     /**
+     * Gets the error message after inserting invalid credentials
+     */
+    public static String invalidLoginErrorMessage() {
+        String invalidMessage = driver.findElement(By.className("message-error")).getText();
+        return invalidMessage;
+    }
+
+    /**
      * Returns the forgot password iFrame
      */
     public static WebElement forgotPasswordIframe() {
