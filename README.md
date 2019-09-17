@@ -25,4 +25,4 @@
 
     ```
 ### Resources
-##### https://learning.oreilly.com/videos/rest-api-automation/9781789133813
+##### https://learning.oreilly.com/videos/selenium-webdriver-with/9781789137194
