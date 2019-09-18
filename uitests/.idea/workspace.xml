@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb1e8d4d-750f-4f40-90f1-a0c9373533bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/UserInterfaceProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/LoginPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/LoginPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/SearchPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/SearchPageObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/LoginPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/LoginPageObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/SearchPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/SearchPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/ShopCartPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/ShopCartPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/UserRegistrationPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/UserRegistrationPageObject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ProductChekoutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ProductChekoutTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SearchTests.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +38,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/report-results" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -81,9 +73,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt; (1)">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="LoginTests.UserRegistration (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="uitests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTests" />
+      <option name="METHOD_NAME" value="UserRegistration" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.UserRegistration (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui.tests" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LoginTests" />
       <option name="METHOD_NAME" value="UserRegistration" />
@@ -107,23 +112,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductChekoutTest.ProductCheckout" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="uitests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProductChekoutTest" />
-      <option name="METHOD_NAME" value="ProductCheckout" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="0" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt; (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ui.tests" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="MAIN_CLASS_NAME" value="SearchTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Repos\UserInterfaceProject\uitests\target\report-results" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -140,13 +142,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/target/report-results" is_save="true" />
+      <module name="ui.tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Repos\UserInterfaceProject\uitests\target\report-results" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Repos\UserInterfaceProject\uitests\target\report-results" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.LoginTests.UserRegistration" />
+      <item itemvalue="TestNG.LoginTests.UserRegistration (1)" />
+      <item itemvalue="TestNG.LoginTests.UserRegistration (2)" />
+      <item itemvalue="TestNG.SearchTests" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="TestNG.SearchTests" />
+        <item itemvalue="TestNG.LoginTests.UserRegistration (2)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.LoginTests.UserRegistration (1)" />
         <item itemvalue="TestNG.LoginTests.UserRegistration" />
-        <item itemvalue="TestNG.ProductChekoutTest.ProductCheckout" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +214,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

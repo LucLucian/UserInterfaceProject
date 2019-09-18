@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+    <line>
+      <![CDATA[=====Browser Session End=====]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-09-18T08:51:33Z" name="Default Suite" finished-at="2019-09-18T08:53:32Z" duration-ms="119824">
+    <groups>
+    </groups>
+    <test started-at="2019-09-18T08:51:33Z" name="uitests" finished-at="2019-09-18T08:53:32Z" duration-ms="119824">
+      <class name="SearchTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:SearchTests@eb21112]" started-at="2019-09-18T08:53:16Z" name="beforeSuite" finished-at="2019-09-18T08:53:28Z" duration-ms="12291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="SearchByAutocomplete()[pri:0, instance:SearchTests@eb21112]" started-at="2019-09-18T08:53:28Z" name="SearchByAutocomplete" finished-at="2019-09-18T08:53:31Z" duration-ms="3506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchByAutocomplete -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:SearchTests@eb21112]" started-at="2019-09-18T08:53:31Z" name="afterSuite" finished-at="2019-09-18T08:53:32Z" duration-ms="1029" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- SearchTests -->
+      <class name="LoginTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:51:33Z" name="beforeSuite" finished-at="2019-09-18T08:51:45Z" duration-ms="12636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="ForgotPassword()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:51:45Z" name="ForgotPassword" finished-at="2019-09-18T08:51:49Z" duration-ms="4152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotPassword -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:51:49Z" name="afterSuite" finished-at="2019-09-18T08:51:50Z" duration-ms="712" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:51:50Z" name="beforeSuite" finished-at="2019-09-18T08:52:02Z" duration-ms="12076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="InvalidLogin()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:02Z" name="InvalidLogin" finished-at="2019-09-18T08:52:05Z" duration-ms="2936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:05Z" name="afterSuite" finished-at="2019-09-18T08:52:06Z" duration-ms="688" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:06Z" name="beforeSuite" finished-at="2019-09-18T08:52:18Z" duration-ms="12198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="UserRegistration()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:18Z" name="UserRegistration" finished-at="2019-09-18T08:52:25Z" duration-ms="7320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserRegistration -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:25Z" name="afterSuite" finished-at="2019-09-18T08:52:26Z" duration-ms="700" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:26Z" name="beforeSuite" finished-at="2019-09-18T08:52:38Z" duration-ms="12444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="ValidLogin()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:38Z" name="ValidLogin" finished-at="2019-09-18T08:52:44Z" duration-ms="5668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:LoginTests@704d6e83]" started-at="2019-09-18T08:52:44Z" name="afterSuite" finished-at="2019-09-18T08:52:45Z" duration-ms="702" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- LoginTests -->
+      <class name="ProductChekoutTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:ProductChekoutTest@43a0cee9]" started-at="2019-09-18T08:52:45Z" name="beforeSuite" finished-at="2019-09-18T08:52:57Z" duration-ms="11918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="ProductCheckout()[pri:0, instance:ProductChekoutTest@43a0cee9]" started-at="2019-09-18T08:52:57Z" name="ProductCheckout" finished-at="2019-09-18T08:53:15Z" duration-ms="18104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductCheckout -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:ProductChekoutTest@43a0cee9]" started-at="2019-09-18T08:53:15Z" name="afterSuite" finished-at="2019-09-18T08:53:16Z" duration-ms="709" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Browser Session End=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- ProductChekoutTest -->
+    </test> <!-- uitests -->
+  </suite> <!-- Default Suite -->
+</testng-results>

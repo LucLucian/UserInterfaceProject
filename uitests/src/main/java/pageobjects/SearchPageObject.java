@@ -2,6 +2,8 @@ package pageobjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
 
@@ -36,6 +38,8 @@ public class SearchPageObject extends BasePageClass {
      * Selects a search suggestion by name
      */
     public static void ClickSuggestionByName(String name) {
+        WebDriverWait wait = new WebDriverWait(driver, 50);
+        wait.until(ExpectedConditions.visibilityOf(autocompleteContainer()));
         List<WebElement> items = autocompleteContainer().findElement(By.tagName("ul")).findElements(By.tagName("li"));
         for (WebElement item : items) {
             // List<WebElement> cells = item.findElements(By.tagName("td"));

@@ -2,7 +2,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageobjects.HomePageObject;
 import pageobjects.LoginPageObject;
-import pageobjects.UserAccountPageObject;
 import pageobjects.UserRegistrationPageObject;
 
 public class LoginTests extends BaseTestClass {
