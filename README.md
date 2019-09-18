@@ -10,8 +10,8 @@
 * I choose to create as Maven project because is a powerful project management tool that is based on POM (project object model). It is used for projects build, dependency and documentation, no need to install any other dependencies.
 * IntelliJ because is a programming environment largely meant for Java and integrates great with Maven, Selenium and TestNG.
 * For running tests and performing assertions, I decided to go with TestNG and it integrates very nicely with IntelliJ and is an automation testing framework in which NG stands for "Next Generation". TestNG is inspired from JUnit which uses the annotations (@).
-* Reports and logs are created using TestNG and are saved under Target/report-results, both as HTML and xml
-
+* Reports and logs are created using TestNG and are saved under test-output/Default Suite, both as HTML and xml
+* Screenshot method on failure are creating png screenshots inside test-output/screenshots
 ### Environment Setup
 
 1. Global Dependencies

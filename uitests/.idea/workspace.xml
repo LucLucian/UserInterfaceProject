@@ -2,14 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb1e8d4d-750f-4f40-90f1-a0c9373533bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageobjects/SearchPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageobjects/SearchPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SearchTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageobjects/SearchPageObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageobjects/SearchPageObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SearchTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/Default Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/Default Suite/uitests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/Default Suite/uitests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/junitreports/TEST-LoginTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/junitreports/TEST-ProductChekoutTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/junitreports/TEST-SearchTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/uitests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/report-results/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTestClass.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +66,13 @@
   <component name="ProjectId" id="1Qunv6UBnOm1rJvKtkAadL4eMJN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/target/report-results" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,53 +104,35 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.&lt;default&gt;">
-    <configuration name="LoginTests.UserRegistration (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="uitests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="UserRegistration" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="0" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTests.UserRegistration (2)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ui.tests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="UserRegistration" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="0" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTests.UserRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="uitests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="UserRegistration" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Default" type="TestNG">
       <module name="ui.tests" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SearchTests" />
+      <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="C:\Repos\UserInterfaceProject\uitests\target\report-results" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.ForgotPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui.tests" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTests" />
+      <option name="METHOD_NAME" value="ForgotPassword" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
@@ -133,26 +145,17 @@
       </method>
     </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="uitests" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
-      <output_file path="$PROJECT_DIR$/target/report-results" is_save="true" />
       <module name="ui.tests" />
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="C:\Repos\UserInterfaceProject\uitests\target\report-results" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
@@ -167,7 +170,7 @@
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="C:\Repos\UserInterfaceProject\uitests\target\report-results" />
+      <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
@@ -180,19 +183,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.Default" />
+      <item itemvalue="TestNG.LoginTests.ForgotPassword" />
       <item itemvalue="TestNG.&lt;default&gt;" />
-      <item itemvalue="TestNG.LoginTests.UserRegistration" />
-      <item itemvalue="TestNG.LoginTests.UserRegistration (1)" />
-      <item itemvalue="TestNG.LoginTests.UserRegistration (2)" />
-      <item itemvalue="TestNG.SearchTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchTests" />
-        <item itemvalue="TestNG.LoginTests.UserRegistration (2)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
-        <item itemvalue="TestNG.LoginTests.UserRegistration (1)" />
-        <item itemvalue="TestNG.LoginTests.UserRegistration" />
+        <item itemvalue="TestNG.LoginTests.ForgotPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -221,5 +219,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BaseTestClass.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
