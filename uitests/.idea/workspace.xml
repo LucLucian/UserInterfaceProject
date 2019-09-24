@@ -2,43 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb1e8d4d-750f-4f40-90f1-a0c9373533bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtentReports/ExtentReportResults.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/AnnotationTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listeners/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/ui.tests.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/listeners/AnnotationTransformer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/listeners/Retry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/listeners/TestListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/BaseTestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/LoginTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/ProductCheckoutTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/SearchTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utils/ExtentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/utils/ExtentTestManager.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseTestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/Default Suite/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/Default Suite/uitests.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/Default Suite/uitests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/junitreports/TEST-LoginTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/junitreports/TEST-ProductChekoutTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/junitreports/TEST-SearchTests.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/Default Suite/uitests.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/report-results/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BaseTestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProductChekoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ProductCheckoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/SearchTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BaseTestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LoginTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ProductChekoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SearchTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/uitests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/uitests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-LoginTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-ProductChekoutTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-SearchTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/uitests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/screenshots/failure_screenshots/ForgotPassword_18_09_2019_04_34_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +70,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -69,10 +97,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/target/report-results" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -86,6 +114,8 @@
       <recent name="pageobjects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repos\UserInterfaceProject\uitests\src\main\java" />
+      <recent name="C:\Repos\UserInterfaceProject\uitests\src\main\resources" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\resources" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\java\pageobjects" />
       <recent name="C:\Users\iflorea\IdeaProjects\uitests\src\main\data" />
@@ -103,19 +133,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.&lt;default&gt;">
-    <configuration name="Default" type="TestNG">
+  <component name="RunManager" selected="TestNG.C:/Repos/UserInterfaceProject/uitests/TestNG.xml">
+    <configuration name="C:/Repos/UserInterfaceProject/uitests/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ui.tests" />
-      <option name="SUITE_NAME" value="" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
@@ -123,12 +154,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.ForgotPassword" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTests.UserRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ui.tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginTests" />
-      <option name="METHOD_NAME" value="ForgotPassword" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="UserRegistration" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="PARAMETERS" value="" />
@@ -144,19 +181,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductCheckoutTest and 1 more" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ui.tests" />
       <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="TEST_OBJECT" value="PATTERN" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <patterns>
+        <pattern testClass="tests.ProductCheckoutTest" />
+        <pattern testClass="tests.SearchTests" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui.tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTests.SearchByAutocomplete" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui.tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.SearchTests" />
+      <option name="METHOD_NAME" value="SearchByAutocomplete" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
@@ -183,14 +275,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.Default" />
-      <item itemvalue="TestNG.LoginTests.ForgotPassword" />
-      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.C:/Repos/UserInterfaceProject/uitests/TestNG.xml" />
+      <item itemvalue="TestNG.ProductCheckoutTest and 1 more" />
+      <item itemvalue="TestNG.SearchTests.SearchByAutocomplete" />
+      <item itemvalue="TestNG.LoginTests.UserRegistration" />
+      <item itemvalue="TestNG.SearchTests" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.&lt;default&gt;" />
-        <item itemvalue="TestNG.LoginTests.ForgotPassword" />
+        <item itemvalue="TestNG.C:/Repos/UserInterfaceProject/uitests/TestNG.xml" />
+        <item itemvalue="TestNG.SearchTests" />
+        <item itemvalue="TestNG.LoginTests.UserRegistration" />
+        <item itemvalue="TestNG.SearchTests.SearchByAutocomplete" />
+        <item itemvalue="TestNG.ProductCheckoutTest and 1 more" />
       </list>
     </recent_temporary>
   </component>
@@ -219,16 +316,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/BaseTestClass.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
